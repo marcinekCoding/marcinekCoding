@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there My name is Marcin<br>I am a 2 year CS student at Warsaw University of Technology
+Hi there My name is Marcin<br>I am a second year CS student at Warsaw University of Technology
 
 
 ## 🌐 Socials:
